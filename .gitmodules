@@ -1,3 +1,6 @@
 [submodule "Odoo-docker"]
 	path = Odoo-docker
 	url = https://github.com/Cloud-Automation-Partner/Odoo-docker.git
+[submodule "OpenHRMS"]
+	path = OpenHRMS
+	url = https://github.com/Cloud-Automation-Partner/OpenHRMS.git
