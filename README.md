@@ -35,7 +35,7 @@ mkdir config
 cp Odoo-docker/16.0/odoo.conf ./config
 ```
 
-## Configuring Docker Compose
+## Configuring Docker Compose with Postgres
 
 Customize your Docker Compose setup by editing the `docker-compose.yml` file. This file orchestrates the configuration of your Odoo and PostgreSQL services.
 
